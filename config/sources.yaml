@@ -1,0 +1,54 @@
+sources:
+  # ── Beverages & food industry ─────────────────────────────────────────────
+  - name: Food Navigator
+    type: rss
+    url: https://www.foodnavigator.com/rss/feeds/frontpage.xml
+    tags: ["food", "beverages", "industry"]
+
+  - name: The Drinks Business
+    type: rss
+    url: https://www.thedrinksbusiness.com/feed/
+    tags: ["beverages", "drinks", "hospitality"]
+
+  - name: Eater
+    type: rss
+    url: https://www.eater.com/rss/index.xml
+    tags: ["food", "hospitality", "culture"]
+
+  # ── Culture & social trends ───────────────────────────────────────────────
+  - name: PSFK
+    type: rss
+    url: https://www.psfk.com/feed
+    tags: ["innovation", "culture", "consumer"]
+
+  - name: Springwise
+    type: rss
+    url: https://www.springwise.com/feed/
+    tags: ["innovation", "culture", "startup"]
+
+  - name: The Guardian - Food
+    type: rss
+    url: https://www.theguardian.com/food/rss
+    tags: ["food", "culture", "lifestyle"]
+
+  - name: The Guardian - Society
+    type: rss
+    url: https://www.theguardian.com/society/rss
+    tags: ["culture", "society", "identity"]
+
+  # ── Wellbeing & identity ──────────────────────────────────────────────────
+  - name: Psychology Today
+    type: rss
+    url: https://www.psychologytoday.com/intl/blog/rss.xml
+    tags: ["mental health", "wellbeing", "identity"]
+
+  # ── Youth & subculture ────────────────────────────────────────────────────
+  - name: Dazed
+    type: rss
+    url: https://www.dazeddigital.com/rss
+    tags: ["youth", "subculture", "identity"]
+
+  - name: Vice
+    type: rss
+    url: https://www.vice.com/en/rss
+    tags: ["culture", "youth", "subculture"]
